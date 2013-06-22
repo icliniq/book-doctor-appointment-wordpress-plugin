@@ -1,9 +1,9 @@
 === Plugin Name ===
 Book Doctor Appointments - iCliniq
-Contributors: marshal@icliniq.com
-Tags: Book Doctor Appointments, iCliniq
-Tested up to: 3.4
-Stable tag: 1.0
+*Contributors: marshal@icliniq.com
+*Tags: Book Doctor Appointments, iCliniq
+*Tested up to: 3.4
+*Stable tag: 1.0
 
 This plugin uses iCliniq's doctor search to list doctors in your website. You can configure doctors to be listed from which location and from which specialities.
 
@@ -42,13 +42,9 @@ Find out more at http://icliniq.com/pages/display/page/wordpress-plugin
 
 == Frequently Asked Questions ==
 
-= What more this Plugin do for a website or a blog? =
+1. What more this Plugin do for a website or a blog?
 
 This plugin will list doctors from icliniq.com; from a location and speciality you configure
-
-== Screenshots ==
-
-1. Doctot listing displayed as a sidebar widget
 
 
 == Changelog ==
