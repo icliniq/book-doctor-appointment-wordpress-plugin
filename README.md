@@ -39,16 +39,9 @@ This section describes how to install the plugin and get it working.
 
 1. Upload the folder `book-doctor-appointment-icliniq` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Go to the Options and configure the it.
+3. Go to the Options and configure it.
 
 Find out more at http://icliniq.com/pages/display/page/wordpress-plugin
-
-
-== Frequently Asked Questions ==
-
-1. What more this Plugin do for a website or a blog?
-
-This plugin will list doctors from icliniq.com; from a location and speciality you configure
 
 
 == Changelog ==
