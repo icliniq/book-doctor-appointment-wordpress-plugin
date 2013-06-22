@@ -14,6 +14,10 @@ This plugin uses https://www.icliniq.com 's doctor search to list doctors in you
 
 This plugin uses iCliniq's doctor search list doctors in your website. You can configure doctors to be listed from which location and from which specialities. The plugin is very **flexible** and you can configure both location and speciality for the doctors to be listed
 
+== Configuring the Widget ==
+
+Go to Wp-admin => Appearance => Widget. Do drag and drop the doctor appointment booking widget to the sidebar; and configure the number of results to be displayed on the widget.
+
 
 To display the doctor listing anywhere in the code, the following method should be used
 
