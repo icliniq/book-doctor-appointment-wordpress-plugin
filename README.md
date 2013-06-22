@@ -5,7 +5,7 @@ Book Doctor Appointments - iCliniq
 *Tested up to: 3.4
 *Stable tag: 1.0
 
-This plugin uses iCliniq's doctor search to list doctors in your website. You can configure doctors to be listed from which location and from which specialities.
+This plugin uses https://www.icliniq.com 's doctor search to list doctors in your website. You can configure doctors to be listed from which location and from which specialities.
 
 == Download the Plugin ==
 <a href="http://icliniq.com/uploads/book-doctor-appointment-icliniq_1.0.rar">book-doctor-appointment-icliniq_1.0.rar</a>
